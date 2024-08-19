@@ -1,3 +1,3 @@
 
 
-print("HELLO, NIRAJAN ! ")
+print("Hello, Nirajan!")
